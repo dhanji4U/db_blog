@@ -29,5 +29,5 @@ To get started with this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/db-blog.git
-   cd db-blog
+   git clone https://github.com/dhanji4U/db_blog.git
+   cd db_blog
